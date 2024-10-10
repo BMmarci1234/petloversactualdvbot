@@ -1,0 +1,19 @@
+{
+  "name": "dcbot321312",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dcbot321312": "file:",
+    "discord.js": "^14.16.3",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3",
+    "path": "^0.12.7"
+  }
+}
